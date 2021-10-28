@@ -12,3 +12,9 @@ Furthermore, the static website is to be managed in a source code repository, wh
 2. Create an account for an cloud provider you prefer (we recommend using AWS or Azure for this example) and create the infrastructure you need for the deployment
 3. Implement the developer workflow and deploy the first version of you static homepage on your cloud infrastructure
 
+## Additional task
+
+Optionally extend your deployment and development workflow to support following development workflow:
+
+![](img/extended-dev-workflow.png)
+
