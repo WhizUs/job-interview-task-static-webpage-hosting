@@ -18,3 +18,8 @@ Optionally extend your deployment and development workflow to support following 
 
 ![](img/extended-dev-workflow.png)
 
+## Notes
+
+* For example, gitlab with the associated gitlab-ci is suitable for implementing the development workflows. 
+* A free account can be created at AWS to create cloud infrastructure.
+* Mögliche Infrastruktur Komponenten die sich für diesen Use Case anbietet, sind Buckets und CDN.
