@@ -14,9 +14,9 @@ Furthermore, the static website is to be managed in a source code repository, wh
 
 ## Additional task
 
-Optionally extend your deployment and development workflow to support following development workflow:
-
+* Optionally extend your deployment and development workflow to support following development workflow:
 ![](img/extended-dev-workflow.png)
+* Create infratructure with an IaC Tool like terraform. Save the terraform code in a separate repository. (Optional) Use remote state management in case you use terraform. 
 
 ## Notes
 
